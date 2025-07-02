@@ -5,7 +5,7 @@ Languages to Be Used for Website: HTML, CSS, JS, React.js
 ## Organization of Coding Files
 I want to have separate HTML files for the following types of pages.
 
-index.html - The main/home page for my personal portfolio
+mainpage.html - The main/home page for my personal portfolio
 projects.html
 resume.html
 blog.html
@@ -13,7 +13,12 @@ contact.html
 
 I want CSS files and JS files for each of these types of html files. 
 
-Examples of css files I want to 
+Examples of css and JS files I want to include
+mainpage.css/mainpage.js
+projects.css/projects.js
+resume.css/resume.js
+blog.css/blog.js
+contact.css/contact.js
 
 # Main Features of the Portfolio for Each Part (aka section) of my personal portfolio website
 -I want the portfolio to be user-friendly, easy-to-navigate and be mobile + web friendly.
