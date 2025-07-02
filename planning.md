@@ -23,21 +23,22 @@ Examples of css files I want to
 - Here are the links for the social media profiles I want to highlight for each page.
 
 ### Social Media and Email Links
-GitHub: 
+GitHub: https://github.com/martinedb
 Email: edwinibon90210@gmail.com
-LinkedIn:
-Medium:
-Linktree:
-YouTube: 
+LinkedIn: https://www.linkedin.com/in/martineb/
+Medium: https://medium.com/@martinbonsu
+Linktree: https://linktr.ee/martinbonsu
+YouTube: https://www.youtube.com/@martinedwini-bonsu3767
 
 ## Specific Requests for my Personal Portfolio Main Page 
 -I want the following header to be used in my website: "UBC Chemical Engineering Student | Urban Water and Wastewater Treatment Co-op Student | Engineering Ambassador | Student Representative | Writer
 
--I want the following description of myself to be front and center: "Hello there! I'm Martin. I am a 5th-year chemical engineering student studying at the University of British Columbia (UBC) on the Vancouver campus. For the past year, I have been on a co-op term as an Urban Water and Wastewater Treatment Co-op Student at Associated Engineering (AE). My experience spans water and wastewater treatment, data analysis, and project management."
+-I want the following description of myself to be front and center: 
 
+### Description of Myself To Be Front and Center
+"Hello there! I'm Martin. I am a 5th-year chemical engineering student studying at the University of British Columbia (UBC) on the Vancouver campus. For the past year, I have been on a co-op term as an Urban Water and Wastewater Treatment Co-op Student at Associated Engineering (AE). My experience spans water and wastewater treatment, data analysis, and project management."
 
-
-- Here are the links for the social media profiles I want to highlight
+## Coding Example of What I w
 
 
 
