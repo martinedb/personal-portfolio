@@ -1,6 +1,9 @@
 This file is a brainstorming page/braindumping page for what I want my personal portfolio to look like.
 
-Languages to Be Used for Website: HTML, CSS, JS, React.js
+### Languages to Be Used for Website
+HTML, CSS, JS frontend, React.js for backend
+Use Swiper.js for project sliders
+Use Tailwind CSS
 
 ## Organization of Coding Files
 I want to have separate HTML files for the following types of pages.
@@ -43,7 +46,17 @@ YouTube: https://www.youtube.com/@martinedwini-bonsu3767
 ### Description of Myself To Be Front and Center
 "Hello there! I'm Martin. I am a 5th-year chemical engineering student studying at the University of British Columbia (UBC) on the Vancouver campus. For the past year, I have been on a co-op term as an Urban Water and Wastewater Treatment Co-op Student at Associated Engineering (AE). My experience spans water and wastewater treatment, data analysis, and project management."
 
-## Coding Example of What I w
+# Visual Theme for How I Want My Personal Portfolio Website To Look Like
+
+# Table of Contents for Visual Theme Structure for Personal Portfolio
+1. Structure and Semantics
+2. Styling and Design System
+3. Key Features
+4. Interactivity and UX Enhancements
+5. Accessibility
+6. Responsive Design
+7. Performance and Best Practices
+8. Extensibility Suggestions
 
 
 
